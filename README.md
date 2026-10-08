@@ -2,7 +2,7 @@
 
 **Software Engineer (Backend, Data & AI)** in Ghent, Belgium · Master of AI, KU Leuven
 
-I build data and AI systems end to end — from ingestion pipelines to the retrieval layer people actually talk to. Lately: turning unstructured enterprise knowledge into **knowledge graphs and RAG systems you can chat with**.
+I build data and AI systems end to end, from ingestion pipelines to the retrieval layer people actually talk to. Lately I've been turning unstructured enterprise knowledge into **knowledge graphs and RAG systems you can chat with**.
 
 **Focus:** LLM applications & RAG · ETL & data pipelines · Computer vision · Cloud (AWS · Azure · GCP)
 
@@ -12,7 +12,7 @@ I build data and AI systems end to end — from ingestion pipelines to the retri
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/MRafiqAsim/tacitgraph">TacitGraph</a></h4>
-      From PST to a knowledge graph you can chat with — an end-to-end RAG pipeline for Outlook archives.<br><br>
+      Turns Outlook (PST) archives into a knowledge graph you can chat with, using an end-to-end RAG pipeline.<br><br>
       GraphRAG · PathRAG · Vector + BM25 · ReAct agent<br>
       Ollama / Llama 3.1 · bge-m3 · Docker · fully local
     </td>
@@ -33,7 +33,7 @@ I build data and AI systems end to end — from ingestion pipelines to the retri
   <tr>
     <td width="100%" valign="top">
       <h4><a href="https://github.com/MRafiqAsim/multi-agent-calendar">Multi-Agent Calendar Management System</a></h4>
-      Manage Google Calendar through conversation — six AI agents, image-based event import and conflict resolution.<br><br>
+      Manage Google Calendar through conversation, with six AI agents, image-based event import and conflict resolution.<br><br>
       openai-agents · Azure OpenAI GPT-4o (+ Vision) · Google Calendar API · Gradio
     </td>
   </tr>
@@ -47,7 +47,7 @@ I build data and AI systems end to end — from ingestion pipelines to the retri
   <tr>
     <td width="100%" valign="top">
       <h4><a href="https://github.com/MRafiqAsim/MachineLearning_ComputerVision_ActiveLearning">Machine Learning (Computer Vision) and Active Learning</a></h4>
-      An end-to-end computer vision product — multi-label image classification and visual similarity search, trained with an active-learning loop in Label Studio.<br><br>
+      An end-to-end computer vision product with multi-label image classification and visual similarity search, trained through an active-learning loop in Label Studio.<br><br>
       PyTorch (EfficientNet-B0) · Label Studio · FastAPI · Streamlit · Docker · Terraform on AWS · GitHub Actions
     </td>
   </tr>
@@ -75,7 +75,7 @@ I build data and AI systems end to end — from ingestion pipelines to the retri
   <tr>
     <td width="100%" valign="top">
       <h4><a href="https://github.com/MRafiqAsim/SQL_Data_Warehouse">SQL Data Warehouse</a></h4>
-      A sales data warehouse on SQL Server with the medallion architecture — raw CRM and ERP data profiled, cleaned and modelled into a star schema, with automated data-quality checks.<br><br>
+      A sales data warehouse on SQL Server, built with the medallion architecture. Raw CRM and ERP data is profiled, cleaned and modelled into a star schema, with automated data-quality checks.<br><br>
       SQL Server · T-SQL stored procedures · Star schema · 26 data-quality checks · CI with SQL Server in Docker
     </td>
   </tr>
@@ -99,7 +99,7 @@ I build data and AI systems end to end — from ingestion pipelines to the retri
     <th width="25%">⚙️ Backend</th>
   </tr>
   <tr>
-    <td valign="top">RAG · GraphRAG · PathRAG<br>Knowledge graphs<br>ReAct agents · tool calling<br>Azure OpenAI · Ollama · embeddings<br>NLP — spaCy, Presidio<br>Computer vision — PyTorch, EfficientNet<br>Active learning · Label Studio<br>Predictive modelling (XGBoost) · SHAP<br>RAGAS evaluation</td>
+    <td valign="top">RAG · GraphRAG · PathRAG<br>Knowledge graphs<br>ReAct agents · tool calling<br>Azure OpenAI · Ollama · embeddings<br>NLP (spaCy, Presidio)<br>Computer vision (PyTorch, EfficientNet)<br>Active learning · Label Studio<br>Predictive modelling (XGBoost) · SHAP<br>RAGAS evaluation</td>
     <td valign="top">ETL · medallion architecture<br>Apache Airflow<br>Snowflake · SQL Server<br>PostgreSQL · MongoDB · Redis<br>Synapse · ADLS Gen2 · Cosmos DB<br>Azure AI Search</td>
     <td valign="top">AWS · Azure · GCP<br>Docker · Terraform<br>GitHub Actions (CI/CD)<br>Monitoring (Datadog)<br>Git</td>
     <td valign="top">Python (FastAPI, uv)<br>Node.js · SQL<br>REST APIs · microservices<br>Event-driven messaging<br>Unit tests · code review</td>
