@@ -55,6 +55,20 @@ I build data and AI systems end to end — from ingestion pipelines to the retri
   <a href="https://github.com/MRafiqAsim/MachineLearning_ComputerVision_ActiveLearning"><img src="ml-cv-active-learning-architecture.png" alt="Architecture: Streamlit app and FastAPI service with an EfficientNet-B0 model on AWS EC2, ECR and S3" width="85%"></a>
 </p>
 
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h4><a href="https://github.com/MRafiqAsim/llm-question-bank">LLM-Powered Question Bank (POC)</a></h4>
+      Generate exam questions from PDFs with large language models, reviewed by instructors before they reach the bank.<br><br>
+      Llama 3 (MLX, Ollama) · OpenAI GPT · FastAPI · Next.js · MongoDB · Docker
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/MRafiqAsim/llm-question-bank"><img src="llm-question-bank-architecture.png" alt="Question bank flow: PDF upload, text extraction, chunked question generation with an LLM, review and storage" width="60%"></a>
+</p>
+
 ### 🧰 Toolbox
 
 <p align="center">
