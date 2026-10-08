@@ -69,6 +69,20 @@ I build data and AI systems end to end — from ingestion pipelines to the retri
   <a href="https://github.com/MRafiqAsim/llm-question-bank"><img src="llm-question-bank-architecture.png" alt="Question bank flow: PDF upload, text extraction, chunked question generation with an LLM, review and storage" width="60%"></a>
 </p>
 
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h4><a href="https://github.com/MRafiqAsim/SQL_Data_Warehouse">SQL Data Warehouse</a></h4>
+      A sales data warehouse on SQL Server with the medallion architecture — raw CRM and ERP data profiled, cleaned and modelled into a star schema, with automated data-quality checks.<br><br>
+      SQL Server · T-SQL stored procedures · Star schema · 26 data-quality checks · CI with SQL Server in Docker
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/MRafiqAsim/SQL_Data_Warehouse"><img src="sql-data-warehouse-architecture.png" alt="Medallion architecture: CRM and ERP sources through Bronze, Silver and Gold layers on SQL Server" width="85%"></a>
+</p>
+
 ### 🧰 Toolbox
 
 <p align="center">
