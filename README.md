@@ -41,10 +41,24 @@ I build data and AI systems end to end — from ingestion pipelines to the retri
   <a href="https://github.com/MRafiqAsim/multi-agent-calendar"><img src="multi-agent-calendar-architecture.png" alt="Multi-agent calendar architecture: Gradio UI, triage orchestrator with six agents, Google Calendar and Azure OpenAI" width="70%"></a>
 </p>
 
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h4><a href="https://github.com/MRafiqAsim/MachineLearning_ComputerVision_ActiveLearning">Machine Learning (Computer Vision) and Active Learning</a></h4>
+      An end-to-end computer vision product — multi-label image classification and visual similarity search, trained with an active-learning loop in Label Studio.<br><br>
+      PyTorch (EfficientNet-B0) · Label Studio · FastAPI · Streamlit · Docker · Terraform on AWS · GitHub Actions
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/MRafiqAsim/MachineLearning_ComputerVision_ActiveLearning"><img src="ml-cv-active-learning-architecture.png" alt="Architecture: Streamlit app and FastAPI service with an EfficientNet-B0 model on AWS EC2, ECR and S3" width="85%"></a>
+</p>
+
 ### 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,postgres,mongodb,redis,aws,azure,gcp,docker,terraform,githubactions&perline=12" alt="Python, FastAPI, Node.js, PostgreSQL, MongoDB, Redis, AWS, Azure, Google Cloud, Docker, Terraform, GitHub Actions">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,nodejs,postgres,mongodb,redis,aws,azure,gcp,docker,terraform,githubactions&perline=13" alt="Python, PyTorch, FastAPI, Node.js, PostgreSQL, MongoDB, Redis, AWS, Azure, Google Cloud, Docker, Terraform, GitHub Actions">
 </p>
 
 <table>
@@ -55,7 +69,7 @@ I build data and AI systems end to end — from ingestion pipelines to the retri
     <th width="25%">⚙️ Backend</th>
   </tr>
   <tr>
-    <td valign="top">RAG · GraphRAG · PathRAG<br>Knowledge graphs<br>ReAct agents · tool calling<br>Azure OpenAI · Ollama · embeddings<br>NLP — spaCy, Presidio<br>Predictive modelling (XGBoost) · SHAP<br>RAGAS evaluation</td>
+    <td valign="top">RAG · GraphRAG · PathRAG<br>Knowledge graphs<br>ReAct agents · tool calling<br>Azure OpenAI · Ollama · embeddings<br>NLP — spaCy, Presidio<br>Computer vision — PyTorch, EfficientNet<br>Active learning · Label Studio<br>Predictive modelling (XGBoost) · SHAP<br>RAGAS evaluation</td>
     <td valign="top">ETL · medallion architecture<br>Apache Airflow<br>Snowflake · SQL Server<br>PostgreSQL · MongoDB · Redis<br>Synapse · ADLS Gen2 · Cosmos DB<br>Azure AI Search</td>
     <td valign="top">AWS · Azure · GCP<br>Docker · Terraform<br>GitHub Actions (CI/CD)<br>Monitoring (Datadog)<br>Git</td>
     <td valign="top">Python (FastAPI, uv)<br>Node.js · SQL<br>REST APIs · microservices<br>Event-driven messaging<br>Unit tests · code review</td>
