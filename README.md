@@ -21,6 +21,16 @@ I build data and AI systems end to end — from ingestion pipelines to the retri
       Azure AI Search (HNSW + BM25) · Azure OpenAI · App Service
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/MRafiqAsim/multi-agent-calendar">Multi-Agent Calendar Management System</a></h4>
+      Manage Google Calendar through conversation — six AI agents, image-based event import and conflict resolution.<br><br>
+      openai-agents · Azure OpenAI GPT-4o (+ Vision)<br>
+      Google Calendar API · Gradio
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 <p align="center">
