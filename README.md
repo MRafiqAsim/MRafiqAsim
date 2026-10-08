@@ -41,13 +41,34 @@ I build data and AI systems end to end — from ingestion pipelines to the retri
   <a href="https://github.com/MRafiqAsim/multi-agent-calendar"><img src="multi-agent-calendar-architecture.png" alt="Multi-agent calendar architecture: Gradio UI, triage orchestrator with six agents, Google Calendar and Azure OpenAI" width="70%"></a>
 </p>
 
-### 🛠️ What I work with
+### 🧰 Toolbox
 
-**Languages & backend:** Python · SQL · REST APIs<br>
-**Cloud & DevOps:** AWS · Azure · GCP · Docker · Terraform · GitHub Actions (CI/CD)<br>
-**Data:** pipelines · medallion architecture · Synapse · ADLS Gen2 · Cosmos DB · Azure AI Search<br>
-**AI:** RAG · GraphRAG · knowledge graphs · NLP (spaCy, Presidio) · LLMs (Azure OpenAI, Ollama) · RAGAS evaluation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,aws,azure,gcp,docker,terraform,githubactions&perline=7" alt="Python, AWS, Azure, Google Cloud, Docker, Terraform, GitHub Actions">
+</p>
 
-### 📫 Get in touch
+<table>
+  <tr>
+    <th width="25%">🧠 AI &amp; LLMs</th>
+    <th width="25%">📊 Data</th>
+    <th width="25%">☁️ Cloud &amp; DevOps</th>
+    <th width="25%">⚙️ Backend</th>
+  </tr>
+  <tr>
+    <td valign="top">RAG · GraphRAG<br>Knowledge graphs<br>NLP — spaCy, Presidio<br>Azure OpenAI · Ollama<br>RAGAS evaluation</td>
+    <td valign="top">Data pipelines<br>Medallion architecture<br>Synapse · ADLS Gen2<br>Cosmos DB<br>Azure AI Search</td>
+    <td valign="top">AWS · Azure · GCP<br>Docker<br>Terraform<br>GitHub Actions (CI/CD)</td>
+    <td valign="top">Python<br>SQL<br>REST APIs</td>
+  </tr>
+</table>
 
-[LinkedIn](https://www.linkedin.com/in/mrafiqasim) · [mrafiq2721@gmail.com](mailto:mrafiq2721@gmail.com) · open to backend, data and AI engineering roles
+### 📫 Let's connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mrafiqasim"><img src="https://img.shields.io/badge/LinkedIn-mrafiqasim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mrafiq2721@gmail.com"><img src="https://img.shields.io/badge/Email-mrafiq2721%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  🟢 <b>Open to backend, data and AI engineering roles</b> · Ghent, Belgium · on-site, hybrid or remote
+</p>
