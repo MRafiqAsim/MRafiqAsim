@@ -21,8 +21,15 @@ I build data and AI systems end to end — from ingestion pipelines to the retri
       Azure AI Search (HNSW + BM25) · Azure OpenAI · App Service
     </td>
   </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/MRafiqAsim/tacitgraph"><img src="tacitgraph-architecture.png" alt="TacitGraph architecture: Bronze, Silver and Gold layers feeding five retrieval strategies" width="85%"></a>
+</p>
+
+<table>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="100%" valign="top">
       <h4><a href="https://github.com/MRafiqAsim/multi-agent-calendar">Multi-Agent Calendar Management System</a></h4>
       Manage Google Calendar through conversation — six AI agents, image-based event import and conflict resolution.<br><br>
       openai-agents · Azure OpenAI GPT-4o (+ Vision) · Google Calendar API · Gradio
@@ -31,7 +38,7 @@ I build data and AI systems end to end — from ingestion pipelines to the retri
 </table>
 
 <p align="center">
-  <a href="https://github.com/MRafiqAsim/tacitgraph"><img src="tacitgraph-architecture.png" alt="TacitGraph architecture: Bronze, Silver and Gold layers feeding five retrieval strategies" width="85%"></a>
+  <a href="https://github.com/MRafiqAsim/multi-agent-calendar"><img src="multi-agent-calendar-architecture.png" alt="Multi-agent calendar architecture: Gradio UI, triage orchestrator with six agents, Google Calendar and Azure OpenAI" width="70%"></a>
 </p>
 
 ### 🛠️ What I work with
