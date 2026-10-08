@@ -90,6 +90,12 @@ I build data and AI systems end to end — from ingestion pipelines to the retri
   </tr>
 </table>
 
+### 📈 A year of contributions
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-gitblock.svg" alt="A year of GitHub contributions as a 3D graph of building blocks" width="100%">
+</p>
+
 ### 📫 Let's connect
 
 <p align="center">
