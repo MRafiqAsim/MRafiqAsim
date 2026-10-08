@@ -44,21 +44,21 @@ I build data and AI systems end to end — from ingestion pipelines to the retri
 ### 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,aws,azure,gcp,docker,terraform,githubactions&perline=7" alt="Python, AWS, Azure, Google Cloud, Docker, Terraform, GitHub Actions">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,postgres,mongodb,redis,aws,azure,gcp,docker,terraform,githubactions&perline=12" alt="Python, FastAPI, Node.js, PostgreSQL, MongoDB, Redis, AWS, Azure, Google Cloud, Docker, Terraform, GitHub Actions">
 </p>
 
 <table>
   <tr>
-    <th width="25%">🧠 AI &amp; LLMs</th>
+    <th width="25%">🧠 AI &amp; ML</th>
     <th width="25%">📊 Data</th>
     <th width="25%">☁️ Cloud &amp; DevOps</th>
     <th width="25%">⚙️ Backend</th>
   </tr>
   <tr>
-    <td valign="top">RAG · GraphRAG<br>Knowledge graphs<br>NLP — spaCy, Presidio<br>Azure OpenAI · Ollama<br>RAGAS evaluation</td>
-    <td valign="top">Data pipelines<br>Medallion architecture<br>Synapse · ADLS Gen2<br>Cosmos DB<br>Azure AI Search</td>
-    <td valign="top">AWS · Azure · GCP<br>Docker<br>Terraform<br>GitHub Actions (CI/CD)</td>
-    <td valign="top">Python<br>SQL<br>REST APIs</td>
+    <td valign="top">RAG · GraphRAG · PathRAG<br>Knowledge graphs<br>ReAct agents · tool calling<br>Azure OpenAI · Ollama · embeddings<br>NLP — spaCy, Presidio<br>Predictive modelling (XGBoost) · SHAP<br>RAGAS evaluation</td>
+    <td valign="top">ETL · medallion architecture<br>Apache Airflow<br>Snowflake · SQL Server<br>PostgreSQL · MongoDB · Redis<br>Synapse · ADLS Gen2 · Cosmos DB<br>Azure AI Search</td>
+    <td valign="top">AWS · Azure · GCP<br>Docker · Terraform<br>GitHub Actions (CI/CD)<br>Monitoring (Datadog)<br>Git</td>
+    <td valign="top">Python (FastAPI, uv)<br>Node.js · SQL<br>REST APIs · microservices<br>Event-driven messaging<br>Unit tests · code review</td>
   </tr>
 </table>
 
