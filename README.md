@@ -4,6 +4,8 @@
 
 I build data and AI systems end to end — from ingestion pipelines to the retrieval layer people actually talk to. Lately: turning unstructured enterprise knowledge into **knowledge graphs and RAG systems you can chat with**.
 
+**Focus:** LLM applications & RAG · ETL & data pipelines · Computer vision · Cloud (AWS · Azure · GCP)
+
 ### 🚀 Featured projects
 
 <table>
@@ -109,6 +111,8 @@ I build data and AI systems end to end — from ingestion pipelines to the retri
 <p align="center">
   <img src="profile-3d-contrib/profile-gitblock.svg" alt="A year of GitHub contributions as a 3D graph of building blocks" width="100%">
 </p>
+
+<p align="center"><sub>Built with Python, TypeScript and T-SQL: LLM/RAG systems, ETL pipelines and computer vision.</sub></p>
 
 ### 📫 Let's connect
 
